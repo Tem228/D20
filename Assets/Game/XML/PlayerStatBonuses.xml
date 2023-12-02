@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Bonuses>
+
+	<Bonus>
+		<ID>1</ID>
+		<BonusAmount>1</BonusAmount>
+		<Name>Beer</Name>
+		<Stat>Strength</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>2</ID>
+		<BonusAmount>2</BonusAmount>
+		<Name>Strength potion</Name>
+		<Stat>Strength</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>3</ID>
+		<BonusAmount>1</BonusAmount>
+		<Name>Beer</Name>
+		<Stat>Charizma</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>4</ID>
+		<BonusAmount>2</BonusAmount>
+		<Name>Charizma potion</Name>
+		<Stat>Charizma</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>5</ID>
+		<BonusAmount>-2</BonusAmount>
+		<Name>Beer</Name>
+		<Stat>Intelligence</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>6</ID>
+		<BonusAmount>-4</BonusAmount>
+		<Name>Vodka</Name>
+		<Stat>Intelligence</Stat>
+	</Bonus>
+
+
+	<Bonus>
+		<ID>7</ID>
+		<BonusAmount>1</BonusAmount>
+		<Name>Book</Name>
+		<Stat>Intelligence</Stat>
+	</Bonus>
+
+	<Bonus>
+		<ID>8</ID>
+		<BonusAmount>2</BonusAmount>
+		<Name>Intelligence potion</Name>
+		<Stat>Intelligence</Stat>
+	</Bonus>
+
+</Bonuses>

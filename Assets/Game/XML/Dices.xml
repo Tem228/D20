@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Dices>
+
+	<Dice>
+		<EdgesAmount>20</EdgesAmount>
+		<Type>D20</Type>
+		
+		<EdgesSprites path = "SpriteAtlases/Dices/D20">
+
+			<Sprite>
+				<ID>1</ID>
+				<Name>1</Name>
+			</Sprite>
+			
+			<Sprite>
+				<ID>2</ID>
+				<Name>2</Name>
+			</Sprite>
+	
+			<Sprite>
+				<ID>3</ID>
+				<Name>3</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>4</ID>
+				<Name>4</Name>
+			</Sprite>
+		
+			<Sprite>
+				<ID>5</ID>
+				<Name>5</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>6</ID>
+				<Name>6</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>7</ID>
+				<Name>7</Name>
+			</Sprite>
+			
+			<Sprite>
+				<ID>8</ID>
+				<Name>8</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>9</ID>
+				<Name>9</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>10</ID>
+				<Name>10</Name>
+			</Sprite>
+			
+			<Sprite>
+				<ID>11</ID>
+				<Name>11</Name>
+			</Sprite>
+			
+			<Sprite>
+				<ID>12</ID>
+				<Name>12</Name>
+			</Sprite>
+	
+			<Sprite>
+				<ID>13</ID>
+				<Name>13</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>14</ID>
+				<Name>14</Name>
+			</Sprite>
+		
+			<Sprite>
+				<ID>15</ID>
+				<Name>15</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>16</ID>
+				<Name>16</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>17</ID>
+				<Name>17</Name>
+			</Sprite>
+			
+			<Sprite>
+				<ID>18</ID>
+				<Name>18</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>19</ID>
+				<Name>19</Name>
+			</Sprite>
+
+			<Sprite>
+				<ID>20</ID>
+				<Name>20</Name>
+			</Sprite>
+		
+		</EdgesSprites>
+		
+	</Dice>
+
+</Dices>
